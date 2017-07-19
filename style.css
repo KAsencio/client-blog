@@ -1,0 +1,57 @@
+body {
+	background:url(https://cdn.pixabay.com/photo/2014/04/05/11/20/room-315257_960_720.jpg)no-repeat center center fixed;
+	background-size: cover;
+}
+.container {
+	max-width: 1000px;
+	display: table;
+	margin: 0 auto;
+}
+
+header,h2{
+	text-align: center;
+}
+
+h1 {
+	font-family: 'Love Ya Like A Sister', cursive;
+	background:
+	padding: 0;
+	margin:5px;
+	font-size: 60px;
+	color: white;
+	display: inline-block;
+}
+
+h2 {
+	font-family: 'Coming Soon', cursive;
+}
+
+p{
+	font-family: 'Coming Soon', cursive;
+	color: white;
+}
+.buttons {
+	margin-top: 50px;
+	border:none;
+}
+
+
+.button{
+		border: 1px solid black;
+		font-family: Arial,sans-serif
+		color: black;
+		background-color:#add8e6;
+		padding:10px;
+		text-decoration: none;
+}
+
+.second-button{
+	border: 1px solid black;
+	font-family: Arial,sans-serif
+	color: black;
+	background-color:#FFFFFF;
+	padding:10px;
+	text-decoration: none;
+}
+a:hover {
+	background-color: #f7ffcc
